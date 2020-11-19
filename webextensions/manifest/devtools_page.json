@@ -15,13 +15,13 @@
               "version_added": "54"
             },
             "firefox_android": {
-              "version_added": true
+              "version_added": false
             },
             "opera": {
               "version_added": true
             },
             "safari": {
-              "version_added": true
+              "version_added": false
             }
           }
         }
